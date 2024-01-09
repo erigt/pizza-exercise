@@ -14,6 +14,6 @@ El ejercicio se realizó en grupo:
 - Luis (https://github.com/luispardosuarez)
 - Erika (https://github.com/erigt)
 
-![Alt text](<Ejercicio Pizza3-2.png>)
-![Alt text](<Ejercicio Pizza2-1.png>)
-![Alt text](<Ejercicio Pizza-1.png>)
+![Alt text](<img/Ejercicio Pizza3.png>)
+![Alt text](<img/Ejercicio Pizza2.png>)
+![Alt text](<img/Ejercicio Pizza.png>)
