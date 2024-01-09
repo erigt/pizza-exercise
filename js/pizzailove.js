@@ -1,16 +1,18 @@
 const pizzas = [
   {
-    nombre: "4 Quesos",
-    ingredientes: ["Mozzarella", "Gorgonzola", "Parmesano", "Ricotta"]
+    nombre: "Especial Vero-Queso",
+    ingredientes: ["Requesón", "Cabrales", "Arzua"]
   },
+  
+  {
+    nombre: "Montañesa",
+    ingredientes: ["Torreznos", "Picadillo", "Cabrales"]
+  },
+
   {
     nombre: "Pepperoni",
-    ingredientes: ["Mozzarella", "Pepperoni", "Tomate"]
+    ingredientes: ["Pepperoni", "Bacon", "Cebolla"]
   },
-  {
-    nombre: "Hawaiana",
-    ingredientes: ["Mozzarella", "Jamón", "Piña"]
-  }
 ];
 
 const pizzaSelect = document.getElementById("pizzaSelect");
