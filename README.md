@@ -1,7 +1,7 @@
 # JS - I Love Pizza
 Ejercicio de 3 nieveles propuesto por Factoría F5 Bootcamp para iniciar y practicar JS.
 
-En el nivel 3 deberás crear la interfaz de usuario en el DOM para que el usuario pueda solicitar su pizza desde el navegador y saber en todo momento el estado de su pedido.
+### En el nivel 3 deberás crear la interfaz de usuario en el DOM para que el usuario pueda solicitar su pizza desde el navegador y saber en todo momento el estado de su pedido.
 
  Requisitos:
  - Mostrar un listado de pizzas disponibles.
